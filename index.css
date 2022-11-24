@@ -167,7 +167,6 @@ nav .icon-burger .line {
 	}
 	
 }
-
 /*Nav End*/
 
 /*Home Section*/
@@ -401,6 +400,8 @@ nav .icon-burger .line {
 
 #about .col-right p {
 	margin-bottom: 20px;
+	font-size: 1.8rem;
+	line-height: 1.9rem;
 }
 
 #about .col-right .cta {
