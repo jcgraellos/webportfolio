@@ -359,6 +359,10 @@ nav .icon-burger .line {
 	font-weight: 500;
 }
 
+#projects .project-info p {
+	font-size: 1.4rem;
+}
+
 #projects .project-img {
 	flex-basis: 50%;
 	height: 300px;
